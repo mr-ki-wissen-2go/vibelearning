@@ -9,7 +9,8 @@ Prompt befindet sich auf der LinkedIn-Seite in der Bio: https://www.linkedin.com
 
 Ziel: Herauszufinden, ob der Suchagent sich an diese Referenz orientieren kann.
 
-Referenz = file = roadmap
+Referenz 1 = file = roadmap, siehe Repo
+Referenz 2 = Webseite = https://mrkiwissen2go.vibe-learning.de/roadmap
 
 Bei Nachfragen:
 
