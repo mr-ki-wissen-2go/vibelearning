@@ -9,6 +9,8 @@ Prompt befindet sich auf der LinkedIn-Seite in der Bio: https://www.linkedin.com
 
 Ziel: Herauszufinden, ob der Suchagent sich an diese Referenz orientieren kann.
 
+Referenz = file = roadmap
+
 Bei Nachfragen:
 
 kontalt@joachimlorenz.digital
