@@ -1,0 +1,139 @@
+# Vibe Learning-Roadmap: KI-gestützte Fortbildungen im Flow
+
+Dieses Repository enthält ein Tutorial zur Erstellung einer **Vibe Learning-Roadmap** für Fortbildungen in der Erwachsenenbildung.
+
+Die Methode basiert auf dem Ansatz von **Joachim Lorenz (Mr-KI-Wissen-2go)** und nutzt ein "Tool-Trio" aus drei KI-Werkzeugen, die nahtlos ineinandergreifen. Das Ziel ist ein effizienter, didaktisch fundierter Workflow, bei dem die KI als Resonanzraum dient, um Inhalte schneller zu durchdringen, zu strukturieren und visuell aufzubereiten.
+
+> **Leitprinzip:** Erst verstehen, dann erzeugen. Kein Tool-Hopping, sondern klarer Fokus.
+
+---
+
+## 🛠️ Das Tool-Trio & ihre Rollen
+
+Um dieses Tutorial nachzuvollziehen, benötigst du Zugang zu folgenden Tools:
+
+| KI-Tool | Rolle im Prozess | Hauptaufgabe |
+| :--- | :--- | :--- |
+| **Google NotebookLM** | **Quellen-Gehirn** | Sortiert, fasst zusammen und beantwortet Fragen *ausschließlich* aus deinen hochgeladenen Materialien (keine Halluzinationen). |
+| **OpenAI ChatGPT** | **Lern-Sparringspartner** | Erklärt, hinterfragt, generiert Beispiele und unterstützt bei der didaktischen Strukturierung. |
+| **Canva (mit Magic Studio)** | **Visualisierungs-Studio** | Verwandelt das Text-Outline in präsentable Slides, Handouts und Social-Media-Snippets. |
+
+---
+
+## 🚀 Das Tutorial: In 5 Phasen zur Fortbildung
+
+Folge diesen Schritten, um deine eigene Fortbildung zu planen. Ersetze die Platzhalter in den Prompts durch deine spezifischen Themen.
+
+### Phase 1: Orientieren – Lernfeld klären (mit NotebookLM)
+
+**Ziel:** Themenraum eingrenzen, Quellen sichern, eigene Fragen formulieren.
+
+1.  Öffne [NotebookLM](https://notebooklm.google/).
+2.  Erstelle ein neues Notebook für deine Fortbildung.
+3.  Lade 5–10 Kernquellen hoch (PDFs, Fachartikel, Skripte, Links zu relevanten YouTube-Videos).
+4.  Nutze die automatische Inhaltsübersicht und das "Audio-Summary", um einen schnellen Überblick zu erhalten.
+5.  Formuliere 3 Leitfragen, die deine Fortbildung unbedingt beantworten muss.
+
+**Beispiel-Prompt für NotebookLM:**
+
+```text
+Fasse die hochgeladenen Quellen in einer Mindmap zusammen und nenne mir 5 didaktische Anknüpfungspunkte für eine Fortbildung zum Thema [DEIN THEMA] in der Erwachsenenbildung.
+```
+
+---
+
+### Phase 2: Vertiefen – Im Dialog mit der KI (mit ChatGPT)
+
+**Ziel:** Inhalte im eigenen Tempo durchdringen, Praxisbeispiele und Analogien finden.
+
+1.  Öffne [ChatGPT](https://chat.openai.com/).
+2.  Nutze einen **Rollen-Prompt**, um die KI in die richtige Position zu bringen.
+3.  Führe einen Dialog, bis du das Gefühl hast, jedes Konzept fehlerfrei einer Kollegin erklären zu können.
+
+**Beispiel-Prompts für ChatGPT:**
+
+*   **Schritt 2a (Rollen-Definition):**
+    ```text
+    Du bist ein erfahrener Co-Trainer für Erwachsenenbildung, spezialisiert auf [DEIN THEMA]. Deine Aufgabe ist es, mir zu helfen, die Kernkonzepte tiefgreifend zu verstehen und didaktisch aufzubereiten.
+    ```
+*   **Schritt 2b (Vertiefung nach der Mr-KI-Wissen-2go Methode):**
+    ```text
+    Erkläre mir das Konzept [SPEZIFISCHES KONZEPT] in 3 Stufen: Einsteiger, Fortgeschritten, Profi. Gib mir je ein konkretes Beispiel aus der Erwachsenenbildung.
+    ```
+
+---
+
+### Phase 3: Strukturieren – Roadmap bauen (ChatGPT + NotebookLM)
+
+**Ziel:** Einen klaren, didaktisch sinnvollen Ablaufplan für die Fortbildung entwickeln.
+
+1.  Wechsle zurück zu **ChatGPT**, um den Ablauf zu entwerfen.
+2.  Nutze anerkannte didaktische Modelle (z. B. AVIVA® oder Bloom’sche Taxonomie) für die Lernziele.
+3.  *Optional:* Spiegle den Entwurf von ChatGPT zurück in **NotebookLM**, um sicherzustellen, dass er deckungsgleich mit deinen Quellen ist.
+
+**Beispiel-Prompt für ChatGPT:**
+
+```text
+Baue mir einen 4-stündigen Fortbildungs-Ablauf für [ZIELGRUPPE] zum Thema [THEMA]. Integriere Mikro-Methoden, logische Pausen und Reflexionsphasen. Definiere klare Lernziele nach der Bloom'schen Taxonomie.
+```
+
+---
+
+### Phase 4: Visualisieren – Material gestalten (mit Canva AI)
+
+**Ziel:** Ansprechende Slides, Handouts & Visuals im eigenen Stil erstellen.
+
+1.  Öffne [Canva](https://www.canva.com/).
+2.  Nutze die Funktion **"Magic Design"**. Kopiere dein strukturiertes Outline aus Phase 3 als Eingabe.
+3.  Wähle ein passendes Template aus.
+4.  Passe Farben, Typografie und Bildsprache an deine Marke/deinen Stil an.
+5.  Nutze den integrierten KI-Bildgenerator, um passende Visuals für abstrakte Module zu erstellen.
+
+**Beispiel-Prompt für Canva Magic Design:**
+
+```text
+Erstelle eine 12-Slide-Präsentation zur Vibe Learning-Roadmap für [THEMA] mit klarer Bildsprache, einer ruhigen Farbpalette und je einer Reflexionsfrage pro Slide.
+```
+
+---
+
+### Phase 5: Eigene Praxis + KI-Sparring (Erproben & Reflektieren)
+
+**Ziel:** Die Fortbildung durchführen, Feedback einholen und iterativ verbessern.
+
+1.  Führe ein Pilot-Modul mit einer kleinen Testgruppe durch.
+2.  Nutze **ChatGPT**, um hochwertige Feedback-Fragen zu generieren.
+3.  Überarbeite die Roadmap basierend auf dem Feedback (Iterationen im Wochenrhythmus).
+
+**Beispiel-Prompt für ChatGPT:**
+
+```text
+Ich habe das Pilot-Modul durchgeführt. Generiere 7 offene Reflexionsfragen, die mir zeigen, ob die Lernziele bei der Zielgruppe wirklich angekommen sind und wo noch Unklarheiten bestehen.
+```
+
+---
+
+## 🏆 Warum diese Methode funktioniert
+
+*   **Klarheit:** Jedes Tool hat eine dedizierte Rolle. Kein Tool-Hopping.
+*   **Tempo:** Lernen und Erstellen im eigenen Rhythmus, unterstützt durch KI-Beschleunigung.
+*   **Wirkung:** Führt zu praxisreifen Ergebnissen statt nur "Nice-to-know"-Inhalten.
+
+---
+
+## 🤝 Beitragen
+
+Hast du eigene Prompts entwickelt, die in diesem Workflow gut funktionieren? Oder hast du die Roadmap für ein bestimmtes Thema adaptiert?
+
+Fühle dich frei, einen Pull Request zu stellen oder ein Issue zu eröffnen, um deine Erfahrungen zu teilen!
+
+---
+
+## 📝 Lizenz
+
+[WÄHLE EINE LIZENZ, z.B. MIT oder CC-BY-4.0]
+
+---
+*Dieses Tutorial basiert auf der Methode von Joachim Lorenz (Mr-KI-Wissen-2go).*
+
+Webseite: https://mrkiwissen2go.vibe-learning.de/roadmap
